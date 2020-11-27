@@ -1,0 +1,51 @@
+body {
+  background:url(Descarga.jpg);
+  background-size: 100%;
+  font-family: gabriola;
+  text-align: center;
+}
+
+h1{
+  font-size: 55px;
+  color: red;
+}
+
+h2 {
+
+  font-family: gabriola;
+  font-size: 45px;
+  color: blue;
+  text-align: center;
+
+}
+
+p{
+  font-size: 44px;
+  color: blue;
+  text-align: center;
+}
+
+redes{
+  padding: 45px;
+  text-align: center;
+
+}
+redes h3{
+  font-family: gabriola;
+  text-align: center;
+  font-weight: bold;
+
+
+}
+
+sociales {
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  display: inline-block;
+
+}
+
+sociales a{
+  display: inline-block;
+}
